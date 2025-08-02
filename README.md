@@ -190,6 +190,3 @@ No environment variables are required for the basic setup. All data is currently
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 
----
-
-Let me know if you'd like this exported to a `.md` or `.pdf` format.
